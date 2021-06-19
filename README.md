@@ -2,4 +2,6 @@
 This repo contains the various data structures and algoriths written in Java.
 
 ## Contents
-1. Search
+1. Searching
+   -  Binary Search
+  

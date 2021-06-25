@@ -1,4 +1,4 @@
-public class FindMajorityElementHashmap {
+public class FindMajorityElement {
 
     static int findMajorityElement(int arr[]){
         int n = arr.length;

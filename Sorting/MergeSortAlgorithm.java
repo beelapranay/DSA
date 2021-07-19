@@ -1,3 +1,6 @@
+// Time Complexity: O(n log n)
+// Space Complexity: O(n)
+
 public class MergeSortAlgorithm {
 
     static void merge(int arr[], int l, int m, int h) {
